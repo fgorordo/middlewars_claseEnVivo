@@ -4,7 +4,7 @@ const controller = {
     res.render('index')
   },
   adminAcess: (req, res) => {
-    res.send('Este usuario es admin')
+    res.send('Hola admin :' + req.query.user)
   }
 }
 

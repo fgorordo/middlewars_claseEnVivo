@@ -51,3 +51,22 @@ GET to => /admin?user=Tim at:  Wed May 18 2022 20:49:06 GMT-0300 (hora estándar
 GET to => /favicon.ico at:  Wed May 18 2022 20:49:06 GMT-0300 (hora estándar de Argentina)
 GET to => /admin?user=Vim at:  Wed May 18 2022 20:49:08 GMT-0300 (hora estándar de Argentina)
 GET to => /admin?user=Carlos at:  Wed May 18 2022 20:49:11 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Tim at:  Wed May 18 2022 20:57:11 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Tim at:  Wed May 18 2022 20:57:40 GMT-0300 (hora estándar de Argentina)
+GET to => /favicon.ico at:  Wed May 18 2022 20:57:41 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Tim at:  Wed May 18 2022 20:57:41 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Tim at:  Wed May 18 2022 20:57:46 GMT-0300 (hora estándar de Argentina)
+GET to => /favicon.ico at:  Wed May 18 2022 20:57:46 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Carlos at:  Wed May 18 2022 20:57:48 GMT-0300 (hora estándar de Argentina)
+GET to => /favicon.ico at:  Wed May 18 2022 20:57:48 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Carlos at:  Wed May 18 2022 20:58:09 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Vim at:  Wed May 18 2022 20:58:13 GMT-0300 (hora estándar de Argentina)
+GET to => /favicon.ico at:  Wed May 18 2022 20:58:13 GMT-0300 (hora estándar de Argentina)
+GET to => /admin?user=Vim at:  Wed May 18 2022 21:08:34 GMT-0300 (hora estándar de Argentina) undefined
+GET to => /favicon.ico at:  Wed May 18 2022 21:08:34 GMT-0300 (hora estándar de Argentina) undefined
+GET to => /admin?user=Vim at:  Wed May 18 2022 21:08:35 GMT-0300 (hora estándar de Argentina) undefined
+GET to => /admin?user=Vim at:  Wed May 18 2022 21:08:36 GMT-0300 (hora estándar de Argentina) undefined
+GET to => /admin?user=Vim at:  Wed May 18 2022 21:08:36 GMT-0300 (hora estándar de Argentina) undefined
+GET to => /admin?user=Vim at:  Wed May 18 2022 21:19:09 GMT-0300 (hora estándar de Argentina) 
+GET to => /admin?user=carlos at:  Wed May 18 2022 21:19:11 GMT-0300 (hora estándar de Argentina) 
+GET to => /admin?user=carlos at:  Wed May 18 2022 21:21:13 GMT-0300 (hora estándar de Argentina) 
